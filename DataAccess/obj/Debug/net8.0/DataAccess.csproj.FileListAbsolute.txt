@@ -1,0 +1,17 @@
+D:\C#\E-Commerce\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\C#\E-Commerce\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+D:\C#\E-Commerce\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\C#\E-Commerce\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\C#\E-Commerce\DataAccess\bin\Debug\net8.0\BusinessObject.dll
+D:\C#\E-Commerce\DataAccess\bin\Debug\net8.0\BusinessObject.pdb
+D:\C#\E-Commerce\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\C#\E-Commerce\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\E-Commerce\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\C#\E-Commerce\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\C#\E-Commerce\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\C#\E-Commerce\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+D:\C#\E-Commerce\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\C#\E-Commerce\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\C#\E-Commerce\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\C#\E-Commerce\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+D:\C#\E-Commerce\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

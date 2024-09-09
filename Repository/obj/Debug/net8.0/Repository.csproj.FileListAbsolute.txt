@@ -1,0 +1,11 @@
+D:\C#\E-Commerce\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\C#\E-Commerce\Repository\bin\Debug\net8.0\Repository.dll
+D:\C#\E-Commerce\Repository\bin\Debug\net8.0\Repository.pdb
+D:\C#\E-Commerce\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\E-Commerce\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\C#\E-Commerce\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\C#\E-Commerce\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\C#\E-Commerce\Repository\obj\Debug\net8.0\Repository.dll
+D:\C#\E-Commerce\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\C#\E-Commerce\Repository\obj\Debug\net8.0\Repository.pdb
+D:\C#\E-Commerce\Repository\obj\Debug\net8.0\ref\Repository.dll

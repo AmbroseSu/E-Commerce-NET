@@ -1,0 +1,11 @@
+D:\C#\E-Commerce\Service\bin\Debug\net8.0\Service.deps.json
+D:\C#\E-Commerce\Service\bin\Debug\net8.0\Service.dll
+D:\C#\E-Commerce\Service\bin\Debug\net8.0\Service.pdb
+D:\C#\E-Commerce\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\E-Commerce\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\C#\E-Commerce\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\C#\E-Commerce\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\C#\E-Commerce\Service\obj\Debug\net8.0\Service.dll
+D:\C#\E-Commerce\Service\obj\Debug\net8.0\refint\Service.dll
+D:\C#\E-Commerce\Service\obj\Debug\net8.0\Service.pdb
+D:\C#\E-Commerce\Service\obj\Debug\net8.0\ref\Service.dll
