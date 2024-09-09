@@ -12,3 +12,4 @@ D:\C#\E-Commerce\BusinessObject\obj\Debug\net8.0\refint\BusinessObject.dll
 D:\C#\E-Commerce\BusinessObject\obj\Debug\net8.0\BusinessObject.pdb
 D:\C#\E-Commerce\BusinessObject\obj\Debug\net8.0\BusinessObject.genruntimeconfig.cache
 D:\C#\E-Commerce\BusinessObject\obj\Debug\net8.0\ref\BusinessObject.dll
+D:\C#\E-Commerce\BusinessObject\obj\Debug\net8.0\BusinessObject.sourcelink.json

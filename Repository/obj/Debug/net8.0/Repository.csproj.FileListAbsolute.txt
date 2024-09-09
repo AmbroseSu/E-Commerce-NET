@@ -9,3 +9,4 @@ D:\C#\E-Commerce\Repository\obj\Debug\net8.0\Repository.dll
 D:\C#\E-Commerce\Repository\obj\Debug\net8.0\refint\Repository.dll
 D:\C#\E-Commerce\Repository\obj\Debug\net8.0\Repository.pdb
 D:\C#\E-Commerce\Repository\obj\Debug\net8.0\ref\Repository.dll
+D:\C#\E-Commerce\Repository\obj\Debug\net8.0\Repository.sourcelink.json
